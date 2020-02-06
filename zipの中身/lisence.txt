@@ -1,0 +1,22 @@
+【本データで作成したVCIへのライセンス付与について】
+サンプルVCI・Luaスクリプトの作成者は猫月あゆむです。
+以上2点は以下のライセンスで公開しています。
+
+【サンプルVCI、Luaスクリプト】
+・CC0ライセンスの元公開します。
+https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+
+そのため、自由にライセンスを付与して問題ありません。
+商用利用・改変・再配布等もOKです。
+データを再配布する場合に以下のデータが含まれる場合は以下のライセンスにも従う必要があります。
+
+【UniVCI-0.24】
+UniVCIは MIT License の元提供されています。
+MIT License
+Copyright (c) 2019 Virtual Cast, Inc.
+https://github.com/virtual-cast/VCI/blob/master/LICENSE.txt
+
+【Noto Sans CJK】
+すべてのNotoフォントは、SIL Open Font License, Version 1.1. の元公開されています。
+NotoはGoogle Inc.の商標です。
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
